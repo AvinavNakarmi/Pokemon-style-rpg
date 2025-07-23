@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/cmake_install.cmake",
+		"C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/libs/glfw/cmake_install.cmake",
+		"C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/libs/glfw/src/cmake_install.cmake",
+		"C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/libs/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

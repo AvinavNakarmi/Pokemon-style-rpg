@@ -1,0 +1,12 @@
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/CMakeFiles/glad.dir
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/CMakeFiles/OpenGLProject.dir
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/CMakeFiles/INSTALL.dir
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/libs/glfw/CMakeFiles/uninstall.dir
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/libs/glfw/CMakeFiles/INSTALL.dir
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/libs/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/libs/glfw/src/CMakeFiles/glfw.dir
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/libs/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/libs/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/libs/glfw/docs/CMakeFiles/INSTALL.dir

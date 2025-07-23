@@ -1,0 +1,54 @@
+# === Compiled Object Files ===
+*.o
+*.obj
+
+# === Executables ===
+*.exe
+*.out
+*.app
+
+# === Static and Shared Libraries ===
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# === Build Directories ===
+build/
+bin/
+dist/
+
+# === Editor Configs ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === OS-specific files ===
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# === Logs & Temp Files ===
+*.log
+*.tmp
+*.swp
+*~
+
+# === CMake Cache ===
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# === Visual Studio (if used) ===
+*.sdf
+*.suo
+*.vcxproj*
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.opensdf
+*.tlog
+*.vs/

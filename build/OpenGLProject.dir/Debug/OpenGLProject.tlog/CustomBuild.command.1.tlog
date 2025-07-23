@@ -1,0 +1,10 @@
+^C:\USERS\AVINA\ONEDRIVE\DESKTOP\PROJECTS\PERSONAL\OPENGL\POKEMON\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon -BC:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build --check-stamp-file C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

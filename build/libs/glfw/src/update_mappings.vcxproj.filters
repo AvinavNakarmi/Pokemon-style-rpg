@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\CMakeFiles\739769c7fed35cdf6bcb373a2c49c12c\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\libs\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{24224EAA-F9E3-3C07-BE65-3994C4043C50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5002F74F-03EE-3D85-8928-5115553DFA10}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

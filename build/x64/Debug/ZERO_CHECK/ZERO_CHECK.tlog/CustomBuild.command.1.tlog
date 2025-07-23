@@ -1,0 +1,10 @@
+^C:\USERS\AVINA\ONEDRIVE\DESKTOP\PROJECTS\PERSONAL\OPENGL\POKEMON\BUILD\CMAKEFILES\0805459C5DB96375219CFFFD87E8A2F7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon -BC:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/avina/OneDrive/Desktop/Projects/Personal/OpenGL/Pokemon/build/Base.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

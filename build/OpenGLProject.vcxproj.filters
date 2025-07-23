@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\core\application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\object\mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\EBO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\VAO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\VBO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\stb\stb_image_implementation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C36375BB-C914-3F3D-8E25-BFCE55C75DB3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
