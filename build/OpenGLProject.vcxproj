@@ -344,7 +344,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\shader.cpp" />
     <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\util\collision.cpp" />
     <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\util\transform.cpp" />
-    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\stb_img\stb_image_implementation.cpp" />
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\stb\stb_image_implementation.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

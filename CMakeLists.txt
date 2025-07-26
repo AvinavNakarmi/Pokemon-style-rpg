@@ -33,7 +33,7 @@ ${CMAKE_SOURCE_DIR}/src/shader/*.cpp
 ${CMAKE_SOURCE_DIR}/src/object/*.cpp)
 
 # Your executable with all required source files
-add_executable(OpenGLProject src/main.cpp ${UTILS_SOURCES} libs/stb_img/stb_image_implementation.cpp)
+add_executable(OpenGLProject src/main.cpp ${UTILS_SOURCES} libs/stb/stb_image_implementation.cpp)
 
 # Link libraries
 

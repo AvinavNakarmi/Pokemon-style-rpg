@@ -10,4 +10,4 @@ C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\re
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\shader.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\shader.obj
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\util\collision.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\collision.obj
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\util\transform.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\transform.obj
-C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\stb_img\stb_image_implementation.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\stb_image_implementation.obj
+C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\stb\stb_image_implementation.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\stb_image_implementation.obj
