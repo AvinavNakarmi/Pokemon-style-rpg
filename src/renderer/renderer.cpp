@@ -41,8 +41,6 @@ Renderer::Renderer()
 void Renderer::Draw()
 {
     float currentTime = glfwGetTime();
-    std::cout << latestInput;
-    std::cout << currentTime << std::endl;
 
     if (currentTime - latestInput > 0.1f)
     {
