@@ -22,6 +22,9 @@ Application::Application()
         std::cerr << "Failed to initialize GLAD\n";
         throw std::runtime_error("Failed to initialize GLAD");
     }
+    WindowHandler::setWidth(width);
+    WindowHandler::setWidth(height);
+    WindowHandler::setWindow(window);
     renderer = new Renderer();
 }
 void Application::Run()

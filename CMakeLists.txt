@@ -24,9 +24,11 @@ target_include_directories(glad PUBLIC include)
 
 # Collect all utility source files
 file(GLOB_RECURSE UTILS_SOURCES 
-${CMAKE_SOURCE_DIR}/src/utils/*.cpp 
+${CMAKE_SOURCE_DIR}/src/util/*.cpp 
 ${CMAKE_SOURCE_DIR}/src/core/*.cpp 
 ${CMAKE_SOURCE_DIR}/src/renderer/*.cpp 
+${CMAKE_SOURCE_DIR}/src/handler/*.cpp 
+
 ${CMAKE_SOURCE_DIR}/src/shader/*.cpp 
 ${CMAKE_SOURCE_DIR}/src/object/*.cpp)
 

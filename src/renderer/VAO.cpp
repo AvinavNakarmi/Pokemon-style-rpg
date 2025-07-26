@@ -10,7 +10,7 @@ VAO::~VAO()
     glDeleteVertexArrays(1, &ID);
 }
 
-void VAO::AddVertexBuffer(GLuint vbo, GLuint bindingIndex, GLint size, GLenum type, GLsizei stride, GLuint attribIndex, GLuint offset)
+void VAO::AddVertexBuffer(GLuint vbo, GLuint bindingIndex, int size, GLenum type, GLsizei stride, GLuint attribIndex, GLuint offset)
 {
     glVertexArrayVertexBuffer(ID, bindingIndex, vbo, 0, stride);
     glEnableVertexArrayAttrib(ID, attribIndex);

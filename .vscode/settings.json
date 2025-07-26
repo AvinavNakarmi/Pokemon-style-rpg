@@ -64,7 +64,10 @@
     "xlocnum": "cpp",
     "xloctime": "cpp",
     "xstring": "cpp",
-    "cerrno": "cpp"
+    "cerrno": "cpp",
+    "any": "cpp",
+    "stop_token": "cpp",
+    "thread": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }

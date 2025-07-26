@@ -7,6 +7,12 @@
     <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\core\application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\handler\object-handler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\handler\window_handler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\object\mesh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -23,6 +29,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\util\collision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\util\transform.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\stb\stb_image_implementation.cpp">

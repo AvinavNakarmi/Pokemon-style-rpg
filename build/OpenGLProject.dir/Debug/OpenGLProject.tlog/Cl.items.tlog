@@ -1,9 +1,13 @@
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\main.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\main.obj
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\core\application.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\application.obj
+C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\handler\object-handler.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\object-handler.obj
+C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\handler\window_handler.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\window_handler.obj
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\object\mesh.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\mesh.obj
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\EBO.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\EBO.obj
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\VAO.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\VAO.obj
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\VBO.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\VBO.obj
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\renderer.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\renderer.obj
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\renderer\shader.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\shader.obj
+C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\util\collision.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\collision.obj
+C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\util\transform.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\transform.obj
 C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\stb\stb_image_implementation.cpp;C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\build\OpenGLProject.dir\Debug\stb_image_implementation.obj

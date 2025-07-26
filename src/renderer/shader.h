@@ -18,6 +18,8 @@ public:
     ~Shader();
     GLuint createShader(const char *shaderSource, GLenum type);
 
+    GLuint GetID() const { return ID; }
+
 private:
     GLuint ID; // Shader program ID
 };

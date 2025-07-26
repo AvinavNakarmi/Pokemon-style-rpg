@@ -5,6 +5,8 @@
 #include <vector>
 #include "VBO.h"
 #include "../object/mesh.h"
+#include "../util/structs.h"
+
 class Renderer
 {
 public:
@@ -14,8 +16,9 @@ public:
 
 private:
     GLuint shaderProgram;
-    Mesh *mesh;
     Mesh *mesh2;
+    Mesh *mesh;
+    float latestInput = 0;
 
     // GLuint createProgram(const char *vertSrc, const char *fragSrc);
 
