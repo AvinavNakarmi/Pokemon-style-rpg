@@ -14,7 +14,7 @@
 #include <unordered_map>
 #include <any>
 #include <string>
-#include "../../libs/stb/stb_image.h"
+#include "../../libs/stb_img/stb_image.h"
 #include <glm/vec3.hpp>
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/type_ptr.hpp>

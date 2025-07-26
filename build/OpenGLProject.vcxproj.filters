@@ -37,7 +37,7 @@
     <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\src\util\transform.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\stb\stb_image_implementation.cpp">
+    <ClCompile Include="C:\Users\avina\OneDrive\Desktop\Projects\Personal\OpenGL\Pokemon\libs\stb_img\stb_image_implementation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
